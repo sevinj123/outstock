@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    padding-top: 30px;
+}
+.logo{
+    width: 30%;
+}
+.menu-items{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+}
+.menu-items li a{
+    text-decoration: none;
+    color: black;
+}
+.nav-span{
+    display: flex;
+    justify-content: flex-end;
+   
+}
+i{
+    font-size: 21px;
+}
+span{
+    font-size: 17px
+}
+.contact{
+    font-size: 17px;
+}
+.hand{
+    font-size: 43px;
+}
+.button-74 {
+  background-color: #fbeee0;
+  border: 2px solid #422800;
+  border-radius: 30px;
+  box-shadow: #422800 4px 4px 0 0;
+  color: #422800;
+  cursor: pointer;
+  display: inline-block;
+  font-weight: 600;
+  font-size: 18px;
+  padding: 0 18px;
+  line-height: 50px;
+  text-align: center;
+  text-decoration: none;
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-74:hover {
+  background-color: #fff;
+}
+
+.button-74:active {
+  box-shadow: #422800 2px 2px 0 0;
+  transform: translate(2px, 2px);
+}
+.handmade{
+    padding-top: 4em;
+}
+.flowers{
+    width: 100%;
+}
+.flowers-item{
+    display: flex;
+    justify-content: space-between;
+}
+.owl-theme{
+    padding-top: 6em;
+}
+.big-1{
+    width: 100%;
+    height: 60vh;
+}
+.banner{
+    color: #422800;
+}
+.btnnnnnnn{
+ padding-top: 5em;
+}
+#Bowl{
+    position: relative;
+}
+.imagesssssssss{
+    position: absolute;
+   padding: 50px 40px;
+}
+#bg-color{
+ background-color: black;
+ height: 70vh;
+ padding-top: 6.5em;
+}
+p a{
+    text-decoration: none;
+    color: white;
+}
+h3 a{
+    color: white;
+    text-decoration: none;
+}
+p{
+    color: white;
+}
